@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1049519b-e13c-4d3d-9774-01c07988d595" name="Changes" comment="update .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <recent name="task02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExampleFrame">
+  <component name="RunManager" selected="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023">
     <configuration name="AnimGLEventListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="texture.demo.example1.AnimGLEventListener" />
       <module name="CS304 2022-2023" />
@@ -92,20 +92,6 @@
     </configuration>
     <configuration name="AnimGLEventListener2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="texture.demo.example1.AnimGLEventListener2" />
-      <module name="CS304 2022-2023" />
-      <option name="VM_PARAMETERS" value="-Djava.library.path=C:\JOGLwin\lib64" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="texture.demo.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimGLEventListener3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="texture.demo.example1.AnimGLEventListener3" />
       <module name="CS304 2022-2023" />
       <option name="VM_PARAMETERS" value="-Djava.library.path=C:\JOGLwin\lib64" />
       <extension name="coverage">
@@ -156,21 +142,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.AnimGLEventListener" />
       <item itemvalue="Application.AnimGLEventListener2" />
-      <item itemvalue="Application.AnimGLEventListener3" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.ExampleFrame" />
+      <item itemvalue="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" />
         <item itemvalue="Application.ExampleFrame" />
         <item itemvalue="Application.AnimGLEventListener2" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.AnimGLEventListener" />
-        <item itemvalue="Application.AnimGLEventListener3" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +197,7 @@
       <workItem from="1668982580831" duration="9706000" />
       <workItem from="1669819013634" duration="606000" />
       <workItem from="1670501662695" duration="17318000" />
-      <workItem from="1670775261179" duration="3550000" />
+      <workItem from="1670775261179" duration="3680000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project with keyboardTask and first 3 tasks">
       <created>1668897355192</created>
