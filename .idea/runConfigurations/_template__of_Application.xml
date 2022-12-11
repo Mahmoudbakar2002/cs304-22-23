@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="Application" factoryName="Application">
+    <module name="CS304 2022-2023" />
+    <option name="VM_PARAMETERS" value="-Djava.library.path=C:\JOGLwin\lib64" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
