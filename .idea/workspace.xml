@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1049519b-e13c-4d3d-9774-01c07988d595" name="Changes" comment="update .gitignore">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Faculty-projects-labs-level3/cs304/temp/1C.Icy-Tower-master/1C.Icy-Tower-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/task5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,11 +58,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\Assets\task5" />
       <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\src\com\bakar\assest\opengl\outsource\texture" />
       <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023" />
       <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\src" />
       <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\src\texture\demo\example1" />
-      <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\src\texture-demo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\Programming_workspace\eclipse-workspace-faculty-22-23\CS304 2022-2023\libs" />
@@ -75,21 +76,7 @@
       <recent name="task02" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023">
-    <configuration name="AnimGLEventListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="texture.demo.example1.AnimGLEventListener" />
-      <module name="CS304 2022-2023" />
-      <option name="VM_PARAMETERS" value="-Djava.library.path=C:\JOGLwin\lib64" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="texture.demo.example1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Frame">
     <configuration name="AnimGLEventListener2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="texture.demo.example1.AnimGLEventListener2" />
       <module name="CS304 2022-2023" />
@@ -111,6 +98,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="texture.myexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task06.Frame" />
+      <module name="CS304 2022-2023" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=C:\JOGLwin\lib64" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +164,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.AnimGLEventListener" />
       <item itemvalue="Application.AnimGLEventListener2" />
       <item itemvalue="Application.test1" />
       <item itemvalue="Application.ExampleFrame" />
+      <item itemvalue="Application.Frame" />
       <item itemvalue="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" />
+        <item itemvalue="Application.Frame" />
         <item itemvalue="Application.ExampleFrame" />
+        <item itemvalue="Gradle.I:/Programming_workspace/eclipse-workspace-faculty-22-23/CS304 2022-2023" />
         <item itemvalue="Application.AnimGLEventListener2" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.AnimGLEventListener" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,9 @@
       <workItem from="1668982580831" duration="9706000" />
       <workItem from="1669819013634" duration="606000" />
       <workItem from="1670501662695" duration="17318000" />
-      <workItem from="1670775261179" duration="3680000" />
+      <workItem from="1670775261179" duration="6611000" />
+      <workItem from="1670804069700" duration="5841000" />
+      <workItem from="1670866045878" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project with keyboardTask and first 3 tasks">
       <created>1668897355192</created>
