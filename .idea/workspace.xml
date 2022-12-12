@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1049519b-e13c-4d3d-9774-01c07988d595" name="Changes" comment="update .gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,7 +199,7 @@
       <workItem from="1670501662695" duration="17318000" />
       <workItem from="1670775261179" duration="6611000" />
       <workItem from="1670804069700" duration="5841000" />
-      <workItem from="1670866045878" duration="640000" />
+      <workItem from="1670866045878" duration="1269000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project with keyboardTask and first 3 tasks">
       <created>1668897355192</created>
